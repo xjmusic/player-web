@@ -1,6 +1,6 @@
-# California!™
+# XJ Music™ Player Web
 
-https://california.outright.io/
+https://hub.xj.io/player
 
 ### ECMAScript 6
 
@@ -34,9 +34,6 @@ Overview:
     
 See also: http://2ality.com/2015/02/es6-classes-final.html
 
-### Source Code Repository
+### Open Source Code Repository
 
-http://code.outright.io/game/california-web
-
-Copyright (c) 2018, Outright Mental Inc. (https://outrightmental.com) All Rights Reserved.
-
+http://github.com/xjmusic/player-web.git
